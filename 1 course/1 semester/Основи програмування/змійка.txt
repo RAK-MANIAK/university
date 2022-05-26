@@ -1,0 +1,264 @@
+#define _CRT_SECURE_NO_WARNINGS
+#include <iostream>
+#include <windows.h>
+#include<stdio.h>
+#include<math.h>
+#include <conio.h>
+#include <stdlib.h>
+#include <time.h>
+#define N 30 //Вертикаль
+#define M 61 //Горизонталь
+int a[N][M], game = -1, n = N, m = M, i, j, x = 'd', k = 6, s = 0, q1 = n / 2, w1, o, g, play;
+void swap(int* a, int* b);
+void green();
+void eat();
+void dec();
+void body();
+void print();
+void clear();
+void show();
+
+int main() {
+    srand(time(0));
+    SetConsoleCP(1251);
+    SetConsoleOutputCP(1251);
+        a[n / 2][10] = -4;
+        a[n / 2][9] = 5;
+        a[n / 2][8] = 6;
+        show();
+        green();
+        do {
+            dec(); //границі
+            body(); //тіло змії та її пересування
+            eat(); //їжа
+            clear();
+            print(); //виводить все
+
+
+        } while (game == -1);
+        Sleep(1000);
+        printf("\nGAME OVER\n");
+        printf("\nYOUR SCORE %d\n", s);
+    return 0;
+}
+
+void dec() {
+    for (int i = 0; i < n - 1; i++) {
+        a[i][0] = 1;
+        a[i][m - 2] = 1;
+    }
+    for (int j = 0; j < m - 1; j++) {
+        a[0][j] = 1;
+        a[n - 2][j] = 1;
+    }
+}
+void print() {
+    for (int i = 0; i < n; i++) {
+        for (int j = 0; j < m; j++) {
+            if (a[i][j] == 0 || a[i][j] == 2)
+                printf("%c", (j != m - 1) ? ' ' : '\n');
+            if (a[i][j] == 1)
+                printf("#");
+            if (a[i][j] >= 5)
+                printf("@");
+            if (a[i][j] == 3)
+                printf("$");
+            if (a[i][j] == -1)
+                printf("A");
+            if (a[i][j] == -2)
+                printf("<");
+            if (a[i][j] == -3)
+                printf("V");
+            if (a[i][j] == -4)
+                printf(">");
+        }
+    }
+}
+void eat() {
+    int count = 0;
+    for (int i = 0; i < n; i++) {
+        for (int j = 0; j < m; j++) {
+            if (a[i][j] == 3)
+                count++;
+        }
+    }
+    while (count != 20) {
+        do {
+            i = 5 + rand() % 21;
+            j = 5 + rand() % 52;
+        } while (a[i][j] != 0);
+        if (n - 5 < i || m - 5 < j)
+            continue;
+        a[i][j] = 3;
+        count++;
+    }
+}
+void body() {
+    for (int z = 0; z < n; z++) {
+        for (int c = 0; c < m; c++) {
+            if (a[z][c] == -1 || a[z][c] == -2 || a[z][c] == -3 || a[z][c] == -4) {
+                i = z;
+                j = c;
+            }
+
+        }
+    }
+    o = 0;
+    int u = x;
+    Sleep(100);
+    x = _getch();
+    if (u == 'w' && x == 's')
+        x = 'w';
+    if (u == 's' && x == 'w')
+        x = 's';
+    if (u == 'a' && x == 'd')
+        x = 'a';
+    if (u == 'd' && x == 'a')
+        x = 'd';
+    switch (x) {
+    case 'w':
+        if (a[i - 1][j] == 3)
+            o++;
+        if (a[i - 1][j] == 1 || a[i - 1][j] >= 5)
+            game = 0;
+        a[i - 1][j] = -1;
+        if (o == 0)
+            a[i][j] = 2;
+        else
+            a[i][j] = ++k;
+        break;
+    case 'a':
+        if (a[i][j - 1] == 3)
+            o++;
+        if (a[i][j - 1] == 1 || a[i][j - 1] >= 5)
+            game = 0;
+        a[i][j - 1] = -2;
+        if (o == 0)
+            a[i][j] = 2;
+        else
+            a[i][j] = ++k;
+        break;
+    case 's':
+        if (a[i + 1][j] == 3)
+            o++;
+        if (a[i + 1][j] == 1 || a[i + 1][j] >= 5)
+            game = 0;
+        a[i + 1][j] = -3;
+        if (o == 0)
+            a[i][j] = 2;
+        else
+            a[i][j] = ++k;
+        break;
+    case 'd':
+        if (a[i][j + 1] == 3)
+            o++;
+        if (a[i][j + 1] == 1 || a[i][j + 1] >= 5)
+            game = 0;
+        a[i][j + 1] = -4;
+        if(o == 0)
+        a[i][j] = 2;
+        else
+        a[i][j] = ++k;
+        break;
+    default: break;
+    }
+    if (o == 1) {
+        s++;
+        for (int t = 5; t < k; t++) {
+            for (int q = 0; q < n; q++) {
+                for (int w = 0; w < m; w++) {
+                    if (a[q][w] == k) {
+                        q1 = q;
+                        w1 = w;
+                    }
+                }
+            }
+            for (int q = 0; q < n; q++) {
+                for (int w = 0; w < m; w++) {
+                    if (a[q][w] == t) {
+                        swap(&a[q1][w1], &a[q][w]);
+                        q1 = 0;
+                        w1 = 0;
+                        g = -1;
+                        break;
+                    }
+                }
+                if (g == -1) {
+                    g = 0;
+                    break;
+                }
+            }
+        }
+
+
+    }
+    if (o == 0) {
+        for (int t = 5; t <= k; t++) {
+            for (int q = 0; q < n; q++) {
+                for (int w = 0; w < m; w++) {
+                    if (a[q][w] == 2) {
+                        q1 = q;
+                        w1 = w;
+                    }
+                }
+            }
+                    for (int q = 0; q < n; q++) {
+                        for (int w = 0; w < m; w++) {
+
+                    if (a[q][w] == t) {
+                        swap(&a[q1][w1], &a[q][w]);
+                        q1 = 0;
+                        w1 = 0;
+                       g = -1;
+                       break;
+                    }
+                }
+                if (g == -1) {
+                    g = 0;
+                    break;
+                }
+            }
+        }
+        for (int q = 0; q < n; q++) {
+            for (int w = 0; w < m; w++) {
+                if (a[q][w] == 2)
+                    a[q][w] = 0;
+            }
+        }
+    }
+}
+
+void clear() {
+    COORD topLeft = { 0, 0 };
+    HANDLE console = GetStdHandle(STD_OUTPUT_HANDLE);
+    CONSOLE_SCREEN_BUFFER_INFO screen;
+    DWORD written;
+
+    GetConsoleScreenBufferInfo(console, &screen);
+    FillConsoleOutputCharacterA(
+        console, ' ', screen.dwSize.X * screen.dwSize.Y, topLeft, &written
+    );
+    FillConsoleOutputAttribute(
+        console, FOREGROUND_GREEN | FOREGROUND_RED | FOREGROUND_BLUE,
+        screen.dwSize.X * screen.dwSize.Y, topLeft, &written
+    );
+    SetConsoleCursorPosition(console, topLeft);
+}
+void show() {
+    void* handle = GetStdHandle(STD_OUTPUT_HANDLE);
+    CONSOLE_CURSOR_INFO structCursorInfo;
+    GetConsoleCursorInfo(handle, &structCursorInfo);
+    structCursorInfo.bVisible = FALSE;
+    SetConsoleCursorInfo(handle, &structCursorInfo);
+
+}
+void swap(int* a1, int* b1)
+{
+    int ua = *a1;
+    *a1 = *b1;
+    *b1 = ua;
+}
+void green() {
+    HANDLE hwnd = GetStdHandle(STD_OUTPUT_HANDLE);
+    SetConsoleTextAttribute(hwnd, FOREGROUND_GREEN | FOREGROUND_INTENSITY);
+}
