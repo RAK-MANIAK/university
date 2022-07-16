@@ -1,0 +1,15 @@
+C:\Users\manki\Desktop\ооп\лаб 4\програми\oop-lab4\Arrays1DConsole\obj\Debug\net6.0\Arrays1DConsole.csproj.AssemblyReference.cache
+C:\Users\manki\Desktop\ооп\лаб 4\програми\oop-lab4\Arrays1DConsole\obj\Debug\net6.0\Arrays1DConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manki\Desktop\ооп\лаб 4\програми\oop-lab4\Arrays1DConsole\obj\Debug\net6.0\Arrays1DConsole.AssemblyInfoInputs.cache
+C:\Users\manki\Desktop\ооп\лаб 4\програми\oop-lab4\Arrays1DConsole\obj\Debug\net6.0\Arrays1DConsole.AssemblyInfo.cs
+C:\Users\manki\Desktop\ооп\лаб 4\програми\oop-lab4\Arrays1DConsole\obj\Debug\net6.0\Arrays1DConsole.csproj.CoreCompileInputs.cache
+C:\Users\manki\Desktop\ооп\лаб 4\програми\oop-lab4\Arrays1DConsole\bin\Debug\net6.0\Arrays1DConsole.exe
+C:\Users\manki\Desktop\ооп\лаб 4\програми\oop-lab4\Arrays1DConsole\bin\Debug\net6.0\Arrays1DConsole.deps.json
+C:\Users\manki\Desktop\ооп\лаб 4\програми\oop-lab4\Arrays1DConsole\bin\Debug\net6.0\Arrays1DConsole.runtimeconfig.json
+C:\Users\manki\Desktop\ооп\лаб 4\програми\oop-lab4\Arrays1DConsole\bin\Debug\net6.0\Arrays1DConsole.dll
+C:\Users\manki\Desktop\ооп\лаб 4\програми\oop-lab4\Arrays1DConsole\bin\Debug\net6.0\Arrays1DConsole.pdb
+C:\Users\manki\Desktop\ооп\лаб 4\програми\oop-lab4\Arrays1DConsole\obj\Debug\net6.0\Arrays1DConsole.dll
+C:\Users\manki\Desktop\ооп\лаб 4\програми\oop-lab4\Arrays1DConsole\obj\Debug\net6.0\refint\Arrays1DConsole.dll
+C:\Users\manki\Desktop\ооп\лаб 4\програми\oop-lab4\Arrays1DConsole\obj\Debug\net6.0\Arrays1DConsole.pdb
+C:\Users\manki\Desktop\ооп\лаб 4\програми\oop-lab4\Arrays1DConsole\obj\Debug\net6.0\Arrays1DConsole.genruntimeconfig.cache
+C:\Users\manki\Desktop\ооп\лаб 4\програми\oop-lab4\Arrays1DConsole\obj\Debug\net6.0\ref\Arrays1DConsole.dll

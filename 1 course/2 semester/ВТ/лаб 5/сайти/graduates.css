@@ -1,0 +1,71 @@
+body{
+    height: 900px;
+    width: 1800px;
+    background:  url("k1.jpg") 60px 150px,
+                 url("k2.jpg") 60px 400px;
+    background-repeat: no-repeat;
+}
+.na{
+    font-size: 28pt;
+    position: absolute;
+    left: 100px;
+    top:100px;
+}
+
+.roz{
+    text-align: center;
+    position: absolute;
+    left: 30px;
+    top:310px;
+}
+.t1>.fa-quote-left{
+    position: absolute;
+    left: -50px;
+    color: #a2a2a2;
+}
+
+.t1>.fa-quote-right{
+    position: absolute;
+    right: -50px;
+    color: #a2a2a2;
+    top:80px;
+}
+.t1{
+    position: absolute;
+    left: 380px;
+    top:170px;
+}
+.rig{
+    text-align: right;
+}
+
+
+
+.roz2{
+    text-align: center;
+    position: absolute;
+    left: 30px;
+    top:560px;
+}
+
+
+.t2>.fa-quote-left{
+    position: absolute;
+    left: -50px;
+    color: #a2a2a2;
+}
+
+.t2>.fa-quote-right{
+    position: absolute;
+    right: -50px;
+    color: #a2a2a2;
+    top:210px;
+}
+.t2{
+    position: absolute;
+    left: 380px;
+    top:410px;
+}
+.rig{
+    text-align: right;
+}

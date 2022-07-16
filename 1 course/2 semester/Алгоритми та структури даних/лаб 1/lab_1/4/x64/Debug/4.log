@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\manki\Desktop\Алгоритми та структури даних\lab_1\4\Source.cpp(56,12): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "size_t"
+C:\Users\manki\Desktop\Алгоритми та структури даних\lab_1\4\Source.cpp(56,12): message : рекомендуется использовать "%zd" в строке форматирования
+C:\Users\manki\Desktop\Алгоритми та структури даних\lab_1\4\Source.cpp(56,12): warning C4477: "printf": в строке форматирования "% d" требуется аргумент типа "int", но вариативный аргумент "2" имеет тип "size_t"
+C:\Users\manki\Desktop\Алгоритми та структури даних\lab_1\4\Source.cpp(56,12): message : рекомендуется использовать "%zd" в строке форматирования
+  4.vcxproj -> C:\Users\manki\Desktop\Алгоритми та структури даних\lab_1\x64\Debug\4.exe

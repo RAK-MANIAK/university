@@ -1,0 +1,9 @@
+h1+p>code{
+    font-size:20px;
+}
+h3+p>code{
+    color: red;
+}
+h3+p+p>code{
+    color: pink;
+}

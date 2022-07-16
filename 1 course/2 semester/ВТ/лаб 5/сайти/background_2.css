@@ -1,0 +1,12 @@
+body{
+    height: 946px;
+    width:1280px;
+    background:  url("1.png") 0% 97%,
+                url("5.png") 290px 290px,
+                url("6.png") 240px 170px,
+                url("4.png") 900px 570px,
+                url("3.png") 750px 350px,
+                url("2.png") 61% 350px,
+                url("0.png");
+    background-repeat: no-repeat;
+}

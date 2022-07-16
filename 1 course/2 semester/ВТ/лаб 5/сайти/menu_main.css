@@ -1,0 +1,46 @@
+.nav{
+    display: flex;
+  }
+  
+  .nav li{
+    width: 135px;
+    list-style: none;
+    position: relative;
+    margin-right: 20px;
+    border:  3px solid #B0C7D8;
+  }
+  
+  
+  .nav a {
+    color: #877160;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    height: 40px;
+    line-height: 40px;
+    transition: all .5s;
+  }
+  
+  
+  .nav a:hover {
+    background: #607788;
+    color: #ffffff;
+  }
+  
+  .nav ul {
+    position: absolute;
+    left: 0;
+    top: 100%;
+    display: none;
+    padding: 0;
+  }
+  
+  .nav li:hover > ul {
+    display: block;
+  }
+  
+  .nav ul ul {
+    display: none;
+    top: 0;
+    left: 100%;
+  }

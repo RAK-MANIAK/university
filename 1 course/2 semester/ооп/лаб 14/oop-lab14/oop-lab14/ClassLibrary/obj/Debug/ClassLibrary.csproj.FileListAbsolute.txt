@@ -1,0 +1,18 @@
+C:\Users\Я\Desktop\Університет 2 семестр\ООП\14 Лабораторна\oop-lab-14\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Я\Desktop\Університет 2 семестр\ООП\14 Лабораторна\oop-lab-14\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Я\Desktop\Університет 2 семестр\ООП\14 Лабораторна\oop-lab-14\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Я\Desktop\Університет 2 семестр\ООП\14 Лабораторна\oop-lab-14\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Я\Desktop\Університет 2 семестр\ООП\14 Лабораторна\oop-lab-14\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Я\Desktop\Університет 2 семестр\ООП\14 Лабораторна\oop-lab-14\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\bakma\OneDrive\Desktop\oop-lab-14\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\bakma\OneDrive\Desktop\oop-lab-14\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bakma\OneDrive\Desktop\oop-lab-14\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\bakma\OneDrive\Desktop\oop-lab-14\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\bakma\OneDrive\Desktop\oop-lab-14\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\bakma\OneDrive\Desktop\oop-lab-14\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\manki\Desktop\oop-lab14\oop-lab14\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\manki\Desktop\oop-lab14\oop-lab14\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\manki\Desktop\oop-lab14\oop-lab14\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\manki\Desktop\oop-lab14\oop-lab14\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\manki\Desktop\oop-lab14\oop-lab14\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\manki\Desktop\oop-lab14\oop-lab14\ClassLibrary\obj\Debug\ClassLibrary.pdb

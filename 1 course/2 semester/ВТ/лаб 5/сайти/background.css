@@ -1,0 +1,32 @@
+div{
+    height: 946px;
+    width: 1280px;
+    background-repeat: no-repeat;
+}
+#main {
+    background-image:url("0.png");
+    }
+    #wusan{
+        background-image:url("1.png");
+        background-position:0% 100%;
+    }
+    #szapka{
+        background-image:url("2.png");
+        background-position:100% 350px;
+    }
+    #komik{
+        background-image:url("3.png");
+        background-position:750px 350px;
+    }
+    #rzuk{
+        background-image:url("4.png");
+        background-position:900px 570px;
+    }
+    #dziewczyna{
+        background-image:url("5.png");
+        background-position:290px 290px;
+    }
+    #stina{
+        background-image:url("6.png");
+        background-position:240px 170px;
+    }

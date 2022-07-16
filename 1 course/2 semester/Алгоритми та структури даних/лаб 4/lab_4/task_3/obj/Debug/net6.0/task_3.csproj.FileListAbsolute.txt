@@ -1,0 +1,15 @@
+C:\Users\manki\Desktop\Алгоритми та структури даних\лаб 4\lab_4\task_3\bin\Debug\net6.0\task_3.exe
+C:\Users\manki\Desktop\Алгоритми та структури даних\лаб 4\lab_4\task_3\bin\Debug\net6.0\task_3.deps.json
+C:\Users\manki\Desktop\Алгоритми та структури даних\лаб 4\lab_4\task_3\bin\Debug\net6.0\task_3.runtimeconfig.json
+C:\Users\manki\Desktop\Алгоритми та структури даних\лаб 4\lab_4\task_3\bin\Debug\net6.0\task_3.dll
+C:\Users\manki\Desktop\Алгоритми та структури даних\лаб 4\lab_4\task_3\bin\Debug\net6.0\task_3.pdb
+C:\Users\manki\Desktop\Алгоритми та структури даних\лаб 4\lab_4\task_3\obj\Debug\net6.0\task_3.csproj.AssemblyReference.cache
+C:\Users\manki\Desktop\Алгоритми та структури даних\лаб 4\lab_4\task_3\obj\Debug\net6.0\task_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manki\Desktop\Алгоритми та структури даних\лаб 4\lab_4\task_3\obj\Debug\net6.0\task_3.AssemblyInfoInputs.cache
+C:\Users\manki\Desktop\Алгоритми та структури даних\лаб 4\lab_4\task_3\obj\Debug\net6.0\task_3.AssemblyInfo.cs
+C:\Users\manki\Desktop\Алгоритми та структури даних\лаб 4\lab_4\task_3\obj\Debug\net6.0\task_3.csproj.CoreCompileInputs.cache
+C:\Users\manki\Desktop\Алгоритми та структури даних\лаб 4\lab_4\task_3\obj\Debug\net6.0\task_3.dll
+C:\Users\manki\Desktop\Алгоритми та структури даних\лаб 4\lab_4\task_3\obj\Debug\net6.0\refint\task_3.dll
+C:\Users\manki\Desktop\Алгоритми та структури даних\лаб 4\lab_4\task_3\obj\Debug\net6.0\task_3.pdb
+C:\Users\manki\Desktop\Алгоритми та структури даних\лаб 4\lab_4\task_3\obj\Debug\net6.0\task_3.genruntimeconfig.cache
+C:\Users\manki\Desktop\Алгоритми та структури даних\лаб 4\lab_4\task_3\obj\Debug\net6.0\ref\task_3.dll

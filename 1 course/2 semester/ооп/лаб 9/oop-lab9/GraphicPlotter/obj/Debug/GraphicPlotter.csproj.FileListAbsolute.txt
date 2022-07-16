@@ -1,0 +1,11 @@
+C:\Users\manki\Desktop\ооп\лаб 9\oop-lab9\GraphicPlotter\bin\Debug\GraphicPlotter.exe.config
+C:\Users\manki\Desktop\ооп\лаб 9\oop-lab9\GraphicPlotter\bin\Debug\GraphicPlotter.exe
+C:\Users\manki\Desktop\ооп\лаб 9\oop-lab9\GraphicPlotter\bin\Debug\GraphicPlotter.pdb
+C:\Users\manki\Desktop\ооп\лаб 9\oop-lab9\GraphicPlotter\obj\Debug\GraphicPlotter.csproj.AssemblyReference.cache
+C:\Users\manki\Desktop\ооп\лаб 9\oop-lab9\GraphicPlotter\obj\Debug\GraphicPlotter.csproj.SuggestedBindingRedirects.cache
+C:\Users\manki\Desktop\ооп\лаб 9\oop-lab9\GraphicPlotter\obj\Debug\GraphicPlotter.Form1.resources
+C:\Users\manki\Desktop\ооп\лаб 9\oop-lab9\GraphicPlotter\obj\Debug\GraphicPlotter.Properties.Resources.resources
+C:\Users\manki\Desktop\ооп\лаб 9\oop-lab9\GraphicPlotter\obj\Debug\GraphicPlotter.csproj.GenerateResource.cache
+C:\Users\manki\Desktop\ооп\лаб 9\oop-lab9\GraphicPlotter\obj\Debug\GraphicPlotter.csproj.CoreCompileInputs.cache
+C:\Users\manki\Desktop\ооп\лаб 9\oop-lab9\GraphicPlotter\obj\Debug\GraphicPlotter.exe
+C:\Users\manki\Desktop\ооп\лаб 9\oop-lab9\GraphicPlotter\obj\Debug\GraphicPlotter.pdb

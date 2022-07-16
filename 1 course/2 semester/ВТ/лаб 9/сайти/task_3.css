@@ -1,0 +1,42 @@
+div {
+  position: absolute;
+  height: 64px;
+  width: 64px;
+  top: 40%;
+  left: 50%;
+}
+img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transition: all 1s;
+}
+div:hover img:nth-child(2) {
+  transition-delay: 0;
+  top: -20px;
+  left: -70px;
+  transform: rotate(-45deg);
+}
+div:hover img:nth-child(1) {
+  transition-delay: 0.5s;
+  top: -60px;
+  left: -20px;
+  transform: rotate(-22deg);
+}
+div:hover img:nth-child(5) {
+  transition-delay: 1.5s;
+  top: -60px;
+  left: 60px;
+  transform: rotate(22deg);
+}
+
+div:hover img:nth-child(3) {
+  transition-delay: 2.0s;
+  top: -20px;
+  left: 110px;
+  transform: rotate(45deg);
+}
+div:hover img:nth-child(4) {
+  transition-delay: 2.5s;
+  transform: rotate(90deg);
+}

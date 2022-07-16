@@ -1,0 +1,89 @@
+body {
+  background-color: #2197e9;
+  font-size: 1.3em;
+}
+a {
+  display: flex;
+  text-decoration: none;
+  color: white;
+}
+body > div {
+  display: flex;
+  border: 1.5px solid black;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+body > div div {
+  padding: 10px;
+  transition: all 0.5s;
+}
+body > div div:hover {
+  color: #2197e9;
+  background-color: white;
+}
+
+.conteiner_b {
+  direction: rtl;
+}
+
+.conteiner_c {
+  justify-content: center;
+}
+
+.conteiner_d {
+  justify-content: center;
+  text-align: center;
+}
+.conteiner_d div {
+  border: 1.5px solid black;
+}
+
+.conteiner_e {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.conteiner_e div {
+  border: 1.5px solid black;
+}
+
+.conteiner_f {
+  align-items: center;
+  justify-content: flex-end;
+  text-align: center;
+}
+.conteiner_f div {
+  border: 1.5px solid black;
+}
+
+.conteiner_g {
+  flex-direction: row-reverse;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: center;
+}
+.conteiner_g div {
+  border: 1.5px solid black;
+}
+
+.conteiner_h {
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.break {
+  flex-basis: 100%;
+  height: 0;
+  visibility: hidden;
+}
+
+.conteiner_i {
+  flex-direction: column;
+}
+.conteiner_i div {
+  flex-basis: 20%;
+  border: 1.5px solid black;
+}

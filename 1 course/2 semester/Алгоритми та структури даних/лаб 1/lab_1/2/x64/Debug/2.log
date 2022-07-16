@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\manki\Desktop\Алгоритми та структури даних\lab_1\2\Source.cpp(39,9): warning C4477: "scanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "short *"
+C:\Users\manki\Desktop\Алгоритми та структури даних\lab_1\2\Source.cpp(39,9): message : рекомендуется использовать "%hd" в строке форматирования
+  2.vcxproj -> C:\Users\manki\Desktop\Алгоритми та структури даних\lab_1\x64\Debug\2.exe

@@ -1,0 +1,15 @@
+C:\Users\manki\Desktop\ооп\лаб 5\програми\oop-lab5\oop-lab5\obj\Debug\net6.0\oop-lab5.csproj.AssemblyReference.cache
+C:\Users\manki\Desktop\ооп\лаб 5\програми\oop-lab5\oop-lab5\obj\Debug\net6.0\oop-lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manki\Desktop\ооп\лаб 5\програми\oop-lab5\oop-lab5\obj\Debug\net6.0\oop-lab5.AssemblyInfoInputs.cache
+C:\Users\manki\Desktop\ооп\лаб 5\програми\oop-lab5\oop-lab5\obj\Debug\net6.0\oop-lab5.AssemblyInfo.cs
+C:\Users\manki\Desktop\ооп\лаб 5\програми\oop-lab5\oop-lab5\obj\Debug\net6.0\oop-lab5.csproj.CoreCompileInputs.cache
+C:\Users\manki\Desktop\ооп\лаб 5\програми\oop-lab5\oop-lab5\bin\Debug\net6.0\oop-lab5.exe
+C:\Users\manki\Desktop\ооп\лаб 5\програми\oop-lab5\oop-lab5\bin\Debug\net6.0\oop-lab5.deps.json
+C:\Users\manki\Desktop\ооп\лаб 5\програми\oop-lab5\oop-lab5\bin\Debug\net6.0\oop-lab5.runtimeconfig.json
+C:\Users\manki\Desktop\ооп\лаб 5\програми\oop-lab5\oop-lab5\bin\Debug\net6.0\oop-lab5.dll
+C:\Users\manki\Desktop\ооп\лаб 5\програми\oop-lab5\oop-lab5\bin\Debug\net6.0\oop-lab5.pdb
+C:\Users\manki\Desktop\ооп\лаб 5\програми\oop-lab5\oop-lab5\obj\Debug\net6.0\oop-lab5.dll
+C:\Users\manki\Desktop\ооп\лаб 5\програми\oop-lab5\oop-lab5\obj\Debug\net6.0\refint\oop-lab5.dll
+C:\Users\manki\Desktop\ооп\лаб 5\програми\oop-lab5\oop-lab5\obj\Debug\net6.0\oop-lab5.pdb
+C:\Users\manki\Desktop\ооп\лаб 5\програми\oop-lab5\oop-lab5\obj\Debug\net6.0\oop-lab5.genruntimeconfig.cache
+C:\Users\manki\Desktop\ооп\лаб 5\програми\oop-lab5\oop-lab5\obj\Debug\net6.0\ref\oop-lab5.dll

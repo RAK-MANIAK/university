@@ -1,0 +1,12 @@
+C:\Users\manki\Desktop\ооп\лаб 6\oop-lab6\biblioteka\bin\Debug\net6.0\biblioteka.deps.json
+C:\Users\manki\Desktop\ооп\лаб 6\oop-lab6\biblioteka\bin\Debug\net6.0\biblioteka.dll
+C:\Users\manki\Desktop\ооп\лаб 6\oop-lab6\biblioteka\bin\Debug\net6.0\biblioteka.pdb
+C:\Users\manki\Desktop\ооп\лаб 6\oop-lab6\biblioteka\obj\Debug\net6.0\biblioteka.csproj.AssemblyReference.cache
+C:\Users\manki\Desktop\ооп\лаб 6\oop-lab6\biblioteka\obj\Debug\net6.0\biblioteka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manki\Desktop\ооп\лаб 6\oop-lab6\biblioteka\obj\Debug\net6.0\biblioteka.AssemblyInfoInputs.cache
+C:\Users\manki\Desktop\ооп\лаб 6\oop-lab6\biblioteka\obj\Debug\net6.0\biblioteka.AssemblyInfo.cs
+C:\Users\manki\Desktop\ооп\лаб 6\oop-lab6\biblioteka\obj\Debug\net6.0\biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\manki\Desktop\ооп\лаб 6\oop-lab6\biblioteka\obj\Debug\net6.0\biblioteka.dll
+C:\Users\manki\Desktop\ооп\лаб 6\oop-lab6\biblioteka\obj\Debug\net6.0\refint\biblioteka.dll
+C:\Users\manki\Desktop\ооп\лаб 6\oop-lab6\biblioteka\obj\Debug\net6.0\biblioteka.pdb
+C:\Users\manki\Desktop\ооп\лаб 6\oop-lab6\biblioteka\obj\Debug\net6.0\ref\biblioteka.dll

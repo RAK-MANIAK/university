@@ -1,0 +1,42 @@
+C:\Users\Я\Desktop\Університет 2 семестр\ООП\14 Лабораторна\oop-lab-14\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\Я\Desktop\Університет 2 семестр\ООП\14 Лабораторна\oop-lab-14\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\Я\Desktop\Університет 2 семестр\ООП\14 Лабораторна\oop-lab-14\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\Я\Desktop\Університет 2 семестр\ООП\14 Лабораторна\oop-lab-14\WindowsFormsApp\bin\Debug\ClassLibrary.dll
+C:\Users\Я\Desktop\Університет 2 семестр\ООП\14 Лабораторна\oop-lab-14\WindowsFormsApp\bin\Debug\ClassLibrary.pdb
+C:\Users\Я\Desktop\Університет 2 семестр\ООП\14 Лабораторна\oop-lab-14\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\Я\Desktop\Університет 2 семестр\ООП\14 Лабораторна\oop-lab-14\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Я\Desktop\Університет 2 семестр\ООП\14 Лабораторна\oop-lab-14\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\Я\Desktop\Університет 2 семестр\ООП\14 Лабораторна\oop-lab-14\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\Я\Desktop\Університет 2 семестр\ООП\14 Лабораторна\oop-lab-14\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Я\Desktop\Університет 2 семестр\ООП\14 Лабораторна\oop-lab-14\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Я\Desktop\Університет 2 семестр\ООП\14 Лабораторна\oop-lab-14\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CopyComplete
+C:\Users\Я\Desktop\Університет 2 семестр\ООП\14 Лабораторна\oop-lab-14\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\Я\Desktop\Університет 2 семестр\ООП\14 Лабораторна\oop-lab-14\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\bakma\OneDrive\Desktop\oop-lab-14\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\bakma\OneDrive\Desktop\oop-lab-14\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\bakma\OneDrive\Desktop\oop-lab-14\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\bakma\OneDrive\Desktop\oop-lab-14\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\bakma\OneDrive\Desktop\oop-lab-14\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\bakma\OneDrive\Desktop\oop-lab-14\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\bakma\OneDrive\Desktop\oop-lab-14\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\bakma\OneDrive\Desktop\oop-lab-14\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\bakma\OneDrive\Desktop\oop-lab-14\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\bakma\OneDrive\Desktop\oop-lab-14\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\bakma\OneDrive\Desktop\oop-lab-14\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\bakma\OneDrive\Desktop\oop-lab-14\WindowsFormsApp\bin\Debug\ClassLibrary.dll
+C:\Users\bakma\OneDrive\Desktop\oop-lab-14\WindowsFormsApp\bin\Debug\ClassLibrary.pdb
+C:\Users\bakma\OneDrive\Desktop\oop-lab-14\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CopyComplete
+C:\Users\manki\Desktop\oop-lab14\oop-lab14\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\manki\Desktop\oop-lab14\oop-lab14\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\manki\Desktop\oop-lab14\oop-lab14\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\manki\Desktop\oop-lab14\oop-lab14\WindowsFormsApp\bin\Debug\ClassLibrary.dll
+C:\Users\manki\Desktop\oop-lab14\oop-lab14\WindowsFormsApp\bin\Debug\ClassLibrary.pdb
+C:\Users\manki\Desktop\oop-lab14\oop-lab14\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\manki\Desktop\oop-lab14\oop-lab14\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\manki\Desktop\oop-lab14\oop-lab14\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\manki\Desktop\oop-lab14\oop-lab14\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\manki\Desktop\oop-lab14\oop-lab14\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\manki\Desktop\oop-lab14\oop-lab14\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\manki\Desktop\oop-lab14\oop-lab14\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CopyComplete
+C:\Users\manki\Desktop\oop-lab14\oop-lab14\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\manki\Desktop\oop-lab14\oop-lab14\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb

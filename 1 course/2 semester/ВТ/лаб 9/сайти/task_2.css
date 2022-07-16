@@ -1,0 +1,39 @@
+.content {
+  position: relative;
+  width: 70%;
+  height: 400px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 50%);
+}
+.text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.left {
+  position: absolute;
+  width: 50%;
+  height: 100%;
+  left: 0;
+  background-color: blue;
+  border: 4px solid rgb(92, 85, 85);
+  transition: 0.3s;
+}
+.right {
+  position: absolute;
+  width: 50%;
+  height: 100%;
+  right: 0;
+  background-color: blue;
+  border: 4px solid rgb(92, 85, 85);
+  transition: 0.3s;
+}
+
+.content:hover .left {
+  transform: perspective(500px) rotateY(45deg);
+}
+.content:hover .right {
+  transform: perspective(500px) rotateY(-45deg);
+}

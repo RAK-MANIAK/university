@@ -1,0 +1,11 @@
+C:\Users\manki\Desktop\ооп\лаб 8\oop-lab8\task_2\bin\Debug\task_2.exe.config
+C:\Users\manki\Desktop\ооп\лаб 8\oop-lab8\task_2\bin\Debug\task_2.exe
+C:\Users\manki\Desktop\ооп\лаб 8\oop-lab8\task_2\bin\Debug\task_2.pdb
+C:\Users\manki\Desktop\ооп\лаб 8\oop-lab8\task_2\obj\Debug\task_2.csproj.AssemblyReference.cache
+C:\Users\manki\Desktop\ооп\лаб 8\oop-lab8\task_2\obj\Debug\task_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\manki\Desktop\ооп\лаб 8\oop-lab8\task_2\obj\Debug\task_2.Form1.resources
+C:\Users\manki\Desktop\ооп\лаб 8\oop-lab8\task_2\obj\Debug\task_2.Properties.Resources.resources
+C:\Users\manki\Desktop\ооп\лаб 8\oop-lab8\task_2\obj\Debug\task_2.csproj.GenerateResource.cache
+C:\Users\manki\Desktop\ооп\лаб 8\oop-lab8\task_2\obj\Debug\task_2.csproj.CoreCompileInputs.cache
+C:\Users\manki\Desktop\ооп\лаб 8\oop-lab8\task_2\obj\Debug\task_2.exe
+C:\Users\manki\Desktop\ооп\лаб 8\oop-lab8\task_2\obj\Debug\task_2.pdb

@@ -1,0 +1,33 @@
+body {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #2197e9;
+  font-size: 1.5em;
+  text-align: center;
+}
+body > div {
+  width: 1000px;
+  flex-grow: 1;
+}
+a {
+  display: flex;
+  text-decoration: none;
+  color: white;
+  flex-grow: 1;
+}
+.conteiner {
+  width: 600px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.conteiner div {
+  padding: 10px;
+  transition: all 0.5s;
+  flex-grow: 1;
+}
+.conteiner div:hover {
+  color: #2197e9;
+  background-color: white;
+}

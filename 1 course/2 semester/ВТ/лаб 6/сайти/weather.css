@@ -1,0 +1,106 @@
+body{
+    background: linear-gradient(to right, #414141b4 60%, #cbcbcb);
+}
+.topl{
+    position: absolute;
+    top:3%;
+    left:3%;
+    font-size: 20pt;
+    font-family:Verdana;
+}
+
+.topr{
+    position: absolute;
+    top:3%;
+    left:93%;
+    font-size: 20pt;
+    font-family:Verdana;
+}
+
+.time{
+    position: absolute;
+    top:25%;
+    left:23%;
+    font-size: 60pt;
+    font-family:Verdana;
+}
+
+.pm{
+    position: absolute;
+    top:29%;
+    left:37%;
+    font-size: 30pt;
+    font-family:Verdana;
+}
+
+.hmara{
+    background-image: url("img/hmara.png");
+    position: absolute;
+    background-repeat: no-repeat;
+    height: 246px;
+    width: 575px;
+    top:35%;
+    left:48%;
+    z-index: 5;
+    opacity: 0.7;
+}
+
+.right{
+    background-image: url("img/right.png");
+    position: absolute;
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    top:42%;
+    left:26%;
+    z-index: 5;
+    opacity: 0.8;
+}
+
+.left{
+    background-image: url("img/left.png");
+    position: absolute;
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    top:42%;
+    left:21.1%;
+    z-index: 5;
+    opacity: 0.8;
+}
+
+.pogoda{
+    background-image: url("img/pogoda.png");
+    position: absolute;
+    background-repeat: no-repeat;
+    height: 328px;
+    width: 633px;
+    top:35%;
+    left:30%;
+    z-index: 3;
+    box-shadow: 14px 14px 10px rgba(0,0,0,0.25);
+}
+
+.kolo{
+    background-image: url("img/kolo.png");
+    position: absolute;
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    top:73%;
+    left:23%;
+    opacity: 0.8;
+}
+
+.dop{
+    background-image: url("img/dop.jpg");
+    position: absolute;
+    background-repeat: no-repeat;
+    height: 99px;
+    width: 433px;
+    top:67%;
+    left:61%;
+    opacity: 0.9;
+    z-index: 2;
+    box-shadow: 8px 8px 0px rgba(0,0,0,0.15);
+}

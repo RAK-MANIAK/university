@@ -1,0 +1,11 @@
+C:\Users\manki\Desktop\ооп\лаб 7\oop-lab7\TravelForm\bin\Debug\TravelForm.exe.config
+C:\Users\manki\Desktop\ооп\лаб 7\oop-lab7\TravelForm\bin\Debug\TravelForm.exe
+C:\Users\manki\Desktop\ооп\лаб 7\oop-lab7\TravelForm\bin\Debug\TravelForm.pdb
+C:\Users\manki\Desktop\ооп\лаб 7\oop-lab7\TravelForm\obj\Debug\TravelForm.csproj.AssemblyReference.cache
+C:\Users\manki\Desktop\ооп\лаб 7\oop-lab7\TravelForm\obj\Debug\TravelForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\manki\Desktop\ооп\лаб 7\oop-lab7\TravelForm\obj\Debug\TravelForm.Form1.resources
+C:\Users\manki\Desktop\ооп\лаб 7\oop-lab7\TravelForm\obj\Debug\TravelForm.Properties.Resources.resources
+C:\Users\manki\Desktop\ооп\лаб 7\oop-lab7\TravelForm\obj\Debug\TravelForm.csproj.GenerateResource.cache
+C:\Users\manki\Desktop\ооп\лаб 7\oop-lab7\TravelForm\obj\Debug\TravelForm.csproj.CoreCompileInputs.cache
+C:\Users\manki\Desktop\ооп\лаб 7\oop-lab7\TravelForm\obj\Debug\TravelForm.exe
+C:\Users\manki\Desktop\ооп\лаб 7\oop-lab7\TravelForm\obj\Debug\TravelForm.pdb

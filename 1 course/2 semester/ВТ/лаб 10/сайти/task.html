@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="task.css" />
+    <title>Task</title>
+  </head>
+  <body>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2"
+      crossorigin="anonymous"
+    ></script>
+
+    <div class="container-fluid px-0 position-absolute" id="slide">
+      <div
+        id="carouselExampleInterval"
+        class="carousel slide"
+        data-bs-ride="carousel"
+        data-interval="true"
+      >
+        <div class="carousel-inner">
+          <div id="text">YUMMI ANIME<img src="img/yummi.jpg" alt="" /></div>
+          <div class="carousel-item active" data-bs-interval="4000">
+            <img src="img/1.jpg" class="d-block w-100" alt="..." />
+            <div id="text_slide">Kamisama Kiss</div>
+            <div class="row text-bg-danger text-center h5 rounded" id="watch">
+              <div class="col pt-4 pb-4">
+                <a href="" style="display: block">WATCH</a>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item" data-bs-interval="4000">
+            <img src="img/2.jpg" class="d-block w-100" alt="..." />
+            <div id="text_slide">Sword Art Online</div>
+            <div class="row text-bg-danger text-center h5 rounded" id="watch">
+              <div class="col pt-3 pb-3">
+                <a href="" style="display: block">WATCH</a>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item" data-bs-interval="4000">
+            <img src="img/3.jpg" class="d-block w-100" alt="..." />
+            <div id="text_slide">Plastic Memories</div>
+            <div class="row text-bg-danger text-center h5 rounded" id="watch">
+              <div class="col pt-3 pb-3">
+                <a href="" style="display: block">WATCH</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <button
+          class="carousel-control-prev"
+          type="button"
+          data-bs-target="#carouselExampleInterval"
+          data-bs-slide="prev"
+        >
+          <span class="carousel-control-prev-icon rounded-circle border p-4" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button
+          class="carousel-control-next"
+          type="button"
+          data-bs-target="#carouselExampleInterval"
+          data-bs-slide="next"
+        >
+          <span class="carousel-control-next-icon rounded-circle border p-4" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+    </div>
+    <!--  -->
+    <div class="container" id="top">
+      <div class="row alien-items-center text-bg-danger text-center h5 rounded">
+        <div class="col pt-3 pb-3">
+          <a href="" style="display: block">ABOUT</a>
+        </div>
+        <div class="col pt-3 pb-3">
+          <a href="" style="display: block">HOT ANIME</a>
+        </div>
+        <div class="col pt-3 pb-3">
+          <a href="" style="display: block">LIST</a>
+        </div>
+        <div class="col pt-3 pb-3">
+          <a href="" style="display: block">BLOG</a>
+        </div>
+        <div class="col pt-3 pb-3">
+          <a
+            class="nav-link dropdown-toggle"
+            href="#"
+            id="navbarDropdownMenuLink"
+            role="button"
+            data-bs-toggle="dropdown"
+            aria-expanded="false"
+          >
+            CONTACTS
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            <li><a class="dropdown-item" href="#">number</a></li>
+            <li><a class="dropdown-item" href="#">email</a></li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <!--  -->
+    <div class="container" id="card">
+      <div class="row row-cols-1 row-cols-md-3 g-3">
+        <div class="col">
+          <div class="card bg-dark text-white">
+            <img src="img/1.jpg" class="card-img w-100" alt="..." />
+            <div class="card-img-overlay">
+              <h2 class="card-title text-center">Kamisama Kiss<br>
+                <button type="button" class="btn btn-light">WATCH</button></h2></h2>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card bg-dark text-white">
+            <img src="img/2.jpg" class="card-img w-100" alt="..." />
+            <div class="card-img-overlay text-center">
+              <h2 class="card-title">Sword Art Online<br>
+                <button type="button" class="btn btn-light">WATCH</button></h2>
+            </div>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="card bg-dark text-white">
+            <img src="img/3.jpg" class="card-img w-100" alt="..." />
+            <div class="card-img-overlay text-center">
+              <h2 class="card-title">Plastic Memories<br>
+                <button type="button" class="btn btn-light">WATCH</button></h2></h3>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+<!-- -->
+<div class="container" id="form">
+  <div class="row row-cols-md-2 row-cols-1 g-5">
+<form class="col">
+<h1>Registration</h1>
+<div class="row mt-5 row-cols-md-2 row-cols-1">
+  <div class="col">
+    <input type="text" class="form-control w-75" placeholder="Name" aria-label="Name" required="required">
+  </div>
+  <div class="col">
+    <input type="email" class="form-control w-75" placeholder="Email" aria-label="Email" required="required">
+  </div>
+</div>
+<div class="row mt-4 row-cols-md-2 row-cols-1">
+  <div class="col">
+    <input type="text" class="form-control w-75" placeholder="County" aria-label="County" required="required">
+  </div>
+  <div class="col">
+    <input type="text" class="form-control w-75" placeholder="Number" aria-label="Number" required="required">
+  </div>
+</div>
+<div class="row mt-4">
+  <label class="col-3 mt-2" for="in">
+    Check-in
+  </label>
+  <div class="col-9">
+    <input type="date" class="form-control" aria-label="Date" id="in" required="required">
+  </div>
+</div>
+<div class="row mt-4">
+  <label class="col-3" for="out">
+    Check-out
+  </label>
+  <div class="col-9">
+    <input type="date" class="form-control" aria-label="Date"  id="out" required="required">
+  </div>
+</div>
+<div class="row mt-1">
+  <div class="col">
+    Comfort
+  </div>
+</div>
+<div class="form-check form-check-inline">
+  <input class="form-check-input rounded-circle" type="checkbox" value="" id="flexCheck1">
+  <label class="form-check-label" for="flexCheck1">
+    Lorem.
+  </label>
+</div>
+<div class="form-check form-check-inline">
+  <input class="form-check-input rounded-circle" type="checkbox" value="" id="flexCheck2">
+  <label class="form-check-label" for="flexCheck2">
+    Lorem.
+  </label>
+</div>
+<div class="form-check form-check-inline">
+  <input class="form-check-input rounded-circle" type="checkbox" value="" id="flexCheck3">
+  <label class="form-check-label" for="flexCheck3">
+    Lorem.
+  </label>
+</div>
+<div class="row mt-4">
+  <label class="col-auto mt-2" for="autoSizing1">
+    Lorem.
+  </label>
+  <div class="col-auto">
+    <select class="form-select" id="autoSizing1">
+      <option selected>Choose...</option>
+      <option value="1">One</option>
+      <option value="2">Two</option>
+      <option value="3">Three</option>
+    </select>
+  </div>
+  <label class="col-auto mt-2" for="autoSizing2">
+    Lorem.
+  </label>
+  <div class="col-auto">
+    <select class="form-select" id="autoSizing2">
+      <option selected>Choose...</option>
+      <option value="1">One</option>
+      <option value="2">Two</option>
+      <option value="3">Three</option>
+    </select>
+  </div>
+</div>
+<div class="row mt-2">
+  <label class="col-auto mt-2" for="autoSizing3">
+    Lorem.
+  </label>
+  <div class="col-auto">
+    <select class="form-select" id="autoSizing3">
+      <option selected>Choose...</option>
+      <option value="1">One</option>
+      <option value="2">Two</option>
+      <option value="3">Three</option>
+    </select>
+  </div>
+</div>
+<div class="form-floating mt-3" id="area">
+  <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea2" style="height: 150px"></textarea>
+  <label for="floatingTextarea2">Messege:</label>
+</div>
+<div class="col-auto mt-4">
+  <button type="submit" class="btn btn-primary">Submit</button>
+</div>
+</form>
+<!-- </div> -->
+<div class="col" id="right">
+  <h1>WELCOME</h1>
+<p class="mt-5" id="img"><img src="img/1.jpg" alt="" class="w-25 h-25 float-left">
+Lorem ipsum dolor sit amet consectetur adipisicing elit.<br> At incidunt vitae saepe ab beatae excepturi est mollitia dolor nulla corporis.<br><br>
+Lorem ipsum dolor sit amet consectetur adipisicing elit. A cum corporis sequi porro cumque expedita, maxime iure eligendi.
+</p>
+<p class="mt-4">Lorem ipsum dolor, sit amet consectetur <span>adipisicing</span> elit. Similique consequatur, modi explicabo cumque pariatur accusamus?</p>
+<p class="mt-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Similique <span>consequatur</span>, modi explicabo cumque pariatur accusamus?</p>
+<p class="mt-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+<h1 class="mt-5">Lorem, ipsum.</h1>
+<p class="mt-5" id="img"><img src="img/1.jpg" alt="" class="float-left" id="img2">
+Lorem ipsum dolor sit amet consectetur adipisicing elit.<br> At incidunt vitae saepe ab beatae excepturi est mollitia dolor nulla corporis.
+<h5 class="text-right"><span>Lorem, ipsum.</span></h5>
+</p>
+<div class="col-auto mt-4" id="more">
+  <button type="submit" class="btn btn-primary">Submit</button>
+</div>
+</div>
+</div>
+</div>
+<section class="news container"><h2>LATEST NEWS</h2><div class="row"><div class="col-4"> <div class="row"><div class="col-2 red"><h5>10</h5><h5>JAN</h5></div><div class="col-10"><h4>Lorem, ipsum dolor.</h4><span>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt, mollitia!</span></div></div></div><div class="col-4"> <div class="row"><div class="col-2 red"><h5>10</h5><h5>JAN</h5></div><div class="col-10"><h4>Lorem, ipsum dolor.</h4><span>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt, mollitia!</span></div></div></div><div class="col-4"> <div class="row"><div class="col-2 red"><h5>10</h5><h5>JAN</h5></div><div class="col-10"><h4>Lorem, ipsum dolor.</h4><span>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt, mollitia!</span></div></div></div></div></section>
+<footer><a class="return" href="#top"></a><div class="container"><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni, architecto.</span><button>C</button><button>B</button><button>A</button></div></footer>
+  </body>
+</html>

@@ -1,0 +1,15 @@
+C:\Users\manki\Desktop\Чисельні методи\лаб 1\програми\task_1\task_4b\bin\Debug\net6.0\task_4b.exe
+C:\Users\manki\Desktop\Чисельні методи\лаб 1\програми\task_1\task_4b\bin\Debug\net6.0\task_4b.deps.json
+C:\Users\manki\Desktop\Чисельні методи\лаб 1\програми\task_1\task_4b\bin\Debug\net6.0\task_4b.runtimeconfig.json
+C:\Users\manki\Desktop\Чисельні методи\лаб 1\програми\task_1\task_4b\bin\Debug\net6.0\task_4b.dll
+C:\Users\manki\Desktop\Чисельні методи\лаб 1\програми\task_1\task_4b\bin\Debug\net6.0\task_4b.pdb
+C:\Users\manki\Desktop\Чисельні методи\лаб 1\програми\task_1\task_4b\obj\Debug\net6.0\task_4b.csproj.AssemblyReference.cache
+C:\Users\manki\Desktop\Чисельні методи\лаб 1\програми\task_1\task_4b\obj\Debug\net6.0\task_4b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manki\Desktop\Чисельні методи\лаб 1\програми\task_1\task_4b\obj\Debug\net6.0\task_4b.AssemblyInfoInputs.cache
+C:\Users\manki\Desktop\Чисельні методи\лаб 1\програми\task_1\task_4b\obj\Debug\net6.0\task_4b.AssemblyInfo.cs
+C:\Users\manki\Desktop\Чисельні методи\лаб 1\програми\task_1\task_4b\obj\Debug\net6.0\task_4b.csproj.CoreCompileInputs.cache
+C:\Users\manki\Desktop\Чисельні методи\лаб 1\програми\task_1\task_4b\obj\Debug\net6.0\task_4b.dll
+C:\Users\manki\Desktop\Чисельні методи\лаб 1\програми\task_1\task_4b\obj\Debug\net6.0\refint\task_4b.dll
+C:\Users\manki\Desktop\Чисельні методи\лаб 1\програми\task_1\task_4b\obj\Debug\net6.0\task_4b.pdb
+C:\Users\manki\Desktop\Чисельні методи\лаб 1\програми\task_1\task_4b\obj\Debug\net6.0\task_4b.genruntimeconfig.cache
+C:\Users\manki\Desktop\Чисельні методи\лаб 1\програми\task_1\task_4b\obj\Debug\net6.0\ref\task_4b.dll

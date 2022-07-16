@@ -1,0 +1,27 @@
+p{
+    color: red;
+    text-align:center;
+}
+p.gr{
+    color: green;
+}
+#pi{
+    color: pink;
+}
+a.re{
+    color: red;
+
+}
+ul>li>a{
+    color: pink;
+}
+a.gr{
+    color: green;
+}
+li>ul{
+    list-style-type:none;
+}
+#sq>ul>li{
+    list-style-type:square;
+    text-decoration: none;
+}

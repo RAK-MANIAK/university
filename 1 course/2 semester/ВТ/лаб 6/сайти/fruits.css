@@ -1,0 +1,45 @@
+body {
+    background-color: #FF8B00;
+  }
+div {
+    background-color: #CE8540;
+    color: #fff;
+    height: 15px;
+    padding: 5px;
+    display: inline-block;
+    margin-left: 25px;
+  }
+li {
+    background-color: #BAB86B;
+    margin-bottom: 5px;
+    height: 25px;
+    width: 300px;
+    position: relative;
+    list-style-type: none;
+  }
+li:before {
+    position: absolute;
+    content: "";
+    width: 25px;
+    height: 25px;
+  }
+li:nth-child(1):before {
+    background: url("img/apple.png");
+    background-size: 25px 25px;
+  }
+li:nth-child(2):before {
+    background: url("img/strawberry.png");
+    background-size: 25px 25px;
+  }
+li:nth-child(3):before {
+    background: url("img/kiwi.png");
+    background-size: 25px 25px;
+  }
+li:nth-child(4):before {
+    background: url("img/pomegranate.png");
+    background-size: 25px 25px;
+  }
+li:nth-child(5):before {
+    background: url("img/mango.png");
+    background-size: 25px 25px;
+  }

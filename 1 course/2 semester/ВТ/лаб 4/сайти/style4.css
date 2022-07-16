@@ -1,0 +1,52 @@
+table{
+    width:300px;
+}
+h1 {
+    color:rgb(32, 181, 174);
+    font-family: Bahnschrift;
+    padding:10px;
+}
+h3 {
+    font-family: Candara;
+    padding:10px;
+}
+label {
+    font-family: Arial;
+    font-weight: bold;
+}
+body {
+    background-image:url("fon.jpg");
+}
+.main{
+    background-color:white;
+    width:750px;
+    border-radius: 5px;
+    margin: 200px auto;
+
+}
+.input {
+    width:300px;
+    border:1px solid rgb(211, 211, 211);
+    height:25px;
+    border-radius: 5px;
+}
+.butt {
+    width:125px;
+    border-radius: 20px;
+    height:35px;
+    background-color:red;
+    color:white;
+    border:1px solid red;
+}
+a {
+    color:red;
+}
+img {
+    width:410px;
+    float:right;
+    height:420px;
+}
+form {
+    display: inline-block;
+    padding:5px;
+}

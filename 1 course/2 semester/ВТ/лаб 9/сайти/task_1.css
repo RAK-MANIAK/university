@@ -1,0 +1,66 @@
+@keyframes minute {
+  from {
+    transform: rotate(0.5turn);
+  }
+  to {
+    transform: rotate(1.5turn);
+  }
+}
+@keyframes hour {
+  from {
+    transform: rotate(0.5turn);
+  }
+  to {
+    transform: rotate(1.5turn);
+  }
+}
+
+.circle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 5px solid rgb(0, 0, 0);
+  width: 900px;
+  height: 900px;
+  border-radius: 900px;
+}
+.minute {
+  transform: rotate(0.5turn);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -100%);
+  background-color: black;
+  width: 15px;
+  height: 400px;
+  transform-origin: top;
+  animation-name: minute;
+  animation-duration: 3.75s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+.hour {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -100%);
+  background-color: black;
+  width: 25px;
+  height: 300px;
+  transform-origin: top;
+  animation-name: hour;
+  animation-duration: 112s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+.mini_circle {
+  position: absolute;
+  top: 50%;
+  left: 51%;
+  transform: translate(-50%, -50%);
+  background-color: black;
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+}

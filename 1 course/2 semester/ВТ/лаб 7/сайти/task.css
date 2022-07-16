@@ -1,0 +1,212 @@
+body {
+  background-color: #8ec0fb;
+}
+.grid {
+  display: grid;
+  grid-template-columns: 2.5fr 0.5fr;
+  grid-column-gap: 3px;
+  grid-row-gap: 5px;
+}
+.top {
+  border: 1.5px solid white;
+  grid-column-start: span 2;
+  position: relative;
+  width: 100%;
+  height: 200px;
+  background-color: #064065;
+  border-radius: 10px;
+}
+.top_text {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 4em;
+  color: white;
+  text-shadow: -2px -2px 2px #ce5937, -2px -2px 2px #ce5937;
+}
+.top_text::before {
+  content: "the_";
+}
+.top_text::after {
+  content: "_site";
+}
+.img {
+  display: grid;
+  grid-template-columns: 1.5fr 1.5fr;
+  grid-template-rows: repeat(2, 372px);
+  background-color: white;
+  border-radius: 30px;
+  border: 1.5px solid white;
+}
+img {
+  transition: all 0.2s;
+  width: 100%;
+  height: 100%;
+  border-radius: 30px;
+}
+img:hover {
+  transform: scale(1, 1.71875);
+}
+img:nth-child(1):hover {
+  transform-origin: top left;
+}
+img:nth-child(2):hover {
+  transform-origin: top right;
+}
+img:nth-child(3):hover {
+  transform-origin: bottom left;
+}
+img:nth-child(4):hover {
+  transform-origin: bottom right;
+}
+.center_right {
+  border: 1.5px solid white;
+  position: relative;
+  background-color: white;
+  border-radius: 30px;
+  writing-mode: tb-rl;
+  -webkit-box-shadow: inset 25px 25px 18px 19px #e0c05d;
+  box-shadow: inset 25px 25px 18px 19px #e0c05d;
+}
+.center_right_text {
+  font-size: 2.4em;
+  color: #e0c05d;
+  position: absolute;
+  top: 70px;
+  left: 43%;
+  font-weight: bold;
+}
+
+.bottom_text {
+  grid-column-start: span 2;
+  display: grid;
+  grid-template-columns: 1.5fr 1.5fr 1.5fr;
+  grid-column-gap: 3px;
+  grid-template-rows: repeat(1, 400px);
+}
+.bottom_text div {
+  padding: 7px;
+  background-color: white;
+  border-radius: 12px;
+  font-size: 1.2em;
+  overflow: scroll;
+}
+
+.bottom {
+  background-color: blue;
+  grid-column-start: span 2;
+}
+footer {
+  border: 1.5px solid white;
+  grid-column-start: span 2;
+  background-color: #064065;
+  height: 350px;
+  border-radius: 30px;
+}
+.footer_top {
+  padding-top: 3 px;
+  text-align: center;
+  font-size: 3em;
+  color: white;
+}
+.footer_top_bottom {
+  position: absolute;
+  left: 50%;
+  padding-top: 3px;
+  transform: translate(-50%, 0);
+}
+.footer_top_bottom div {
+  float: left;
+  font-size: 2em;
+  color: white;
+  padding-right: 20px;
+  transition: all 0.2s;
+}
+.footer_top_bottom div:hover {
+  color: red;
+}
+.email_text {
+  text-align: center;
+  padding-top: 90px;
+  font-size: 1.2em;
+  color: white;
+  padding-right: 20px;
+}
+.email {
+  padding-top: 5px;
+  text-align: center;
+}
+input {
+  width: 300px;
+  border: 1px solid rgb(255, 255, 255);
+  height: 25px;
+  border-radius: 5px;
+  padding: 5px;
+  width: 300px;
+}
+.footer_bottom {
+  text-align: center;
+  padding-top: 90px;
+  font-size: 1em;
+  color: white;
+}
+.fix {
+  transition: all 0.3s;
+  position: fixed;
+  height: 50px;
+  width: 50px;
+  background-color: black;
+  border-radius: 50px;
+  top: 1%;
+  right: 8px;
+}
+.fix div {
+  position: absolute;
+  color: white;
+  left: 25px;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.fix:hover {
+  width: 200px;
+  right: 9px;
+}
+.fix:hover div {
+  padding-left: 170px;
+  width: 200px;
+}
+
+.fix:hover div:after {
+  content: " US ON TELEGRAM";
+}
+
+@media only screen and (max-width: 768px) {
+  .top_text {
+    font-size: 3em;
+  }
+  .img {
+    grid-column-start: span 2;
+    grid-row-gap: 5px;
+    grid-template-rows: repeat(4, 372px);
+  }
+  img {
+    grid-column-start: span 2;
+  }
+  .center_right {
+    height: 400px;
+  }
+  .center_right_text {
+    grid-column-start: span 2;
+  }
+  .bottom_text {
+    grid-row-gap: 5px;
+    grid-template-rows: repeat(3, 400px);
+  }
+  .bottom_text div {
+    grid-column-start: span 3;
+  }
+  .email_text {
+    padding-top: 120px;
+  }
+}

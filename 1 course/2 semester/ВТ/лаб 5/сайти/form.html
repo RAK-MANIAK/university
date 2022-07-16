@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+    <link rel="stylesheet" href="form.css">
+</head>
+<body>
+    <div>
+    <form>
+<table>
+<tr>
+<td><label for="email">E-mail:</label></td>
+<td><input id="email" type="email" required="required"
+    placeholder="admin"></td>
+</tr>
+<tr>
+<td><label for="password">Пароль:</label></td>
+<td><input id="password" type="password" required="required"
+    placeholder="***"></td>
+</tr>
+<tr>
+<td><label for="passwordp">Пароль повторно:</label></td>
+<td><input id="passwordp" type="password" required="required"
+    placeholder="***"></td>
+</tr>
+<tr>
+<td><label for="name">І'мя:</label></td>
+<td><input id="name" type="text" required="required"></td>
+</tr>
+<tr>
+<td><label for="sname">Прізвище:</label></td>
+<td><input id="sname" type="text" required="required"></td>
+</tr>
+<tr>
+<td>Стать:</td>
+<td><input id="man" type="radio" name="gender" checked><label for="man"> чоловік </label><input id="woman" type="radio" name="gender"><label for="woman"> 
+    жінка</label></td>
+</tr>
+<tr>
+<td><label for="miasto">Місто:</label></td>
+<td><select id="miasto">
+    <option>Житомир</option>
+    <option>Чернівці</option>
+    <option>Вроцлав</option>
+    </select>
+    </td>
+</tr>
+<tr>
+<td><label>Про себе:</label></td>
+<td><textarea></textarea></td>
+</tr>
+<tr>
+<td><label>Погоджуюсь:</label></td>
+<td><input type="checkbox" id="roz"> <label for="roz">Отримувати розсилання сайту</label><br><input type="checkbox" id="rul"> <label for="rul">Погоджуюся з правилами сайту</label><br><input type="checkbox" id="pro"><label for="pro">Сховати профіль на сайті</label></td>
+</tr>
+<tr>
+<td></td>
+<td><button type="submit">Зареєструватися</button> <button type="reset">Скинути</button></td>
+</tr>
+</table>
+    </form>
+    </div>
+</body>
+</html>

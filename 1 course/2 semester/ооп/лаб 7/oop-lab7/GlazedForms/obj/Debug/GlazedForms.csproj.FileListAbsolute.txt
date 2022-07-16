@@ -1,0 +1,11 @@
+C:\Users\manki\Desktop\ооп\лаб 7\oop-lab7\GlazedForms\bin\Debug\GlazedForms.exe.config
+C:\Users\manki\Desktop\ооп\лаб 7\oop-lab7\GlazedForms\bin\Debug\GlazedForms.exe
+C:\Users\manki\Desktop\ооп\лаб 7\oop-lab7\GlazedForms\bin\Debug\GlazedForms.pdb
+C:\Users\manki\Desktop\ооп\лаб 7\oop-lab7\GlazedForms\obj\Debug\GlazedForms.csproj.AssemblyReference.cache
+C:\Users\manki\Desktop\ооп\лаб 7\oop-lab7\GlazedForms\obj\Debug\GlazedForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\manki\Desktop\ооп\лаб 7\oop-lab7\GlazedForms\obj\Debug\GlazedForms.Form1.resources
+C:\Users\manki\Desktop\ооп\лаб 7\oop-lab7\GlazedForms\obj\Debug\GlazedForms.Properties.Resources.resources
+C:\Users\manki\Desktop\ооп\лаб 7\oop-lab7\GlazedForms\obj\Debug\GlazedForms.csproj.GenerateResource.cache
+C:\Users\manki\Desktop\ооп\лаб 7\oop-lab7\GlazedForms\obj\Debug\GlazedForms.csproj.CoreCompileInputs.cache
+C:\Users\manki\Desktop\ооп\лаб 7\oop-lab7\GlazedForms\obj\Debug\GlazedForms.exe
+C:\Users\manki\Desktop\ооп\лаб 7\oop-lab7\GlazedForms\obj\Debug\GlazedForms.pdb

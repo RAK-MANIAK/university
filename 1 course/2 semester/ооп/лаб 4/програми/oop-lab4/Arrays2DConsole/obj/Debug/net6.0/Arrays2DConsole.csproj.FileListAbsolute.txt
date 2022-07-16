@@ -1,0 +1,15 @@
+C:\Users\manki\Desktop\ооп\лаб 4\програми\oop-lab4\Arrays2DConsole\bin\Debug\net6.0\Arrays2DConsole.exe
+C:\Users\manki\Desktop\ооп\лаб 4\програми\oop-lab4\Arrays2DConsole\bin\Debug\net6.0\Arrays2DConsole.deps.json
+C:\Users\manki\Desktop\ооп\лаб 4\програми\oop-lab4\Arrays2DConsole\bin\Debug\net6.0\Arrays2DConsole.runtimeconfig.json
+C:\Users\manki\Desktop\ооп\лаб 4\програми\oop-lab4\Arrays2DConsole\bin\Debug\net6.0\Arrays2DConsole.dll
+C:\Users\manki\Desktop\ооп\лаб 4\програми\oop-lab4\Arrays2DConsole\bin\Debug\net6.0\Arrays2DConsole.pdb
+C:\Users\manki\Desktop\ооп\лаб 4\програми\oop-lab4\Arrays2DConsole\obj\Debug\net6.0\Arrays2DConsole.csproj.AssemblyReference.cache
+C:\Users\manki\Desktop\ооп\лаб 4\програми\oop-lab4\Arrays2DConsole\obj\Debug\net6.0\Arrays2DConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manki\Desktop\ооп\лаб 4\програми\oop-lab4\Arrays2DConsole\obj\Debug\net6.0\Arrays2DConsole.AssemblyInfoInputs.cache
+C:\Users\manki\Desktop\ооп\лаб 4\програми\oop-lab4\Arrays2DConsole\obj\Debug\net6.0\Arrays2DConsole.AssemblyInfo.cs
+C:\Users\manki\Desktop\ооп\лаб 4\програми\oop-lab4\Arrays2DConsole\obj\Debug\net6.0\Arrays2DConsole.csproj.CoreCompileInputs.cache
+C:\Users\manki\Desktop\ооп\лаб 4\програми\oop-lab4\Arrays2DConsole\obj\Debug\net6.0\Arrays2DConsole.dll
+C:\Users\manki\Desktop\ооп\лаб 4\програми\oop-lab4\Arrays2DConsole\obj\Debug\net6.0\refint\Arrays2DConsole.dll
+C:\Users\manki\Desktop\ооп\лаб 4\програми\oop-lab4\Arrays2DConsole\obj\Debug\net6.0\Arrays2DConsole.pdb
+C:\Users\manki\Desktop\ооп\лаб 4\програми\oop-lab4\Arrays2DConsole\obj\Debug\net6.0\Arrays2DConsole.genruntimeconfig.cache
+C:\Users\manki\Desktop\ооп\лаб 4\програми\oop-lab4\Arrays2DConsole\obj\Debug\net6.0\ref\Arrays2DConsole.dll

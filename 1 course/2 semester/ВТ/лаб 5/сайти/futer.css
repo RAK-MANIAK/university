@@ -1,0 +1,104 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
+body{
+    background-color: rgb(86, 147, 226);
+    color:white;
+    line-height: 1.5;
+    font-family:Verdana;
+}
+
+#q1{
+    font-size: 28pt;
+    position: absolute;
+    left:100px;
+    top:150px;
+}
+#q2{
+    font-size: 14pt;
+    position: absolute;
+    left:100px;
+    top:190px;
+}
+#w{
+    font-size: 14pt;
+    position: absolute;
+    left:450px;
+    top:150px;
+}
+#e{
+    font-size: 14pt;
+    position: absolute;
+    left:750px;
+    top:150px;
+}
+#form{
+    font-size: 13pt;
+    position: absolute;
+    left:1100px;
+    top:150px;
+}
+.input{
+    margin-top: 5px;
+    width:300px;
+    border:1px solid rgb(255, 255, 255);
+    height:25px;
+    border-radius: 20px;
+    background: none;
+    padding: 5px;
+    padding-left: 15px;
+    color: white;
+}
+::placeholder{
+    color:rgb(255, 255, 255);
+}
+.but{
+        margin: 5px;    
+        width:100px;
+        border-radius: 20px;
+        height:40px;
+        background-color:rgb(255, 255, 255);
+        color:rgb(0, 0, 0);
+        border:1px solid rgb(255, 255, 255);
+    }
+
+hr{
+    margin-top: 700px;
+    width: 1700px;
+    color: white;
+}
+#tab1{
+    font-size: 14pt;
+    position: absolute;
+    left: 110px;
+    top:760px;  
+}
+#tab2{
+    font-size: 14pt;
+    position: absolute;
+    left: 200px;
+    top:760px;  
+}
+#tab3{
+    font-size: 14pt;
+    position: absolute;
+    left: 380px;
+    top:760px;  
+}
+#tab4{
+    font-size: 14pt;
+    position: absolute;
+    left: 480px;
+    top:760px;  
+}
+#cop{
+    font-size: 13pt;
+    position: absolute;
+    left: 110px;
+    top:800px;  
+}
+.bo{
+    position: absolute;
+    left: 1680px;
+}
+.bo>a{
+    color:#fff;
+}

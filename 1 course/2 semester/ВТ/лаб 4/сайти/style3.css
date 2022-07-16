@@ -1,0 +1,78 @@
+table{
+
+    text-align: center;
+    border-collapse: collapse;
+    border: 1px solid white;
+}
+td{
+    border: 1px solid white;
+    width:100px;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+thead{
+    color:white;
+}
+
+thead>tr>td{
+background:rgb(249, 196, 196);
+border-right: 1px solid rgb(249, 196, 196);
+border-bottom: 1px solid rgb(249, 196, 196);
+}
+thead>tr>td+td{
+    background:rgb(255, 165, 165);
+    border-right: 1px solid rgb(255, 165, 165);
+border-bottom: 1px solid rgb(255, 165, 165);
+    }
+    thead>tr>td+td+td{
+        background:rgb(254, 138, 138);
+        border-right: 1px solid rgb(254, 138, 138);
+        border-bottom: 1px solid rgb(254, 138, 138);
+        }
+        thead>tr>td+td+td+td{
+            background:rgb(255, 121, 121);
+            border-right: 1px solid rgb(255, 121, 121);
+            border-bottom: 1px solid rgb(255, 121, 121);
+            }
+            thead>tr>td+td+td+td+td{
+                background:rgb(255, 105, 105);
+                border-right: 1px solid rgb(255, 255, 255);
+                border-bottom: 1px solid rgb(255, 105, 105);
+                }
+
+tbody>tr>td{
+    color:white;
+    background:rgb(219, 78, 78);
+}
+tbody>tr>td+td{
+    color:black;
+    background:rgb(255, 165, 165);
+}
+tbody>tr+tr>td+td{
+    background:rgb(249, 196, 196);
+}
+tbody>tr+tr+tr>td+td{
+    background:rgb(255, 165, 165);
+}
+tbody>tr+tr+tr+tr>td+td{
+    background:rgb(249, 196, 196);
+}
+tbody>tr+tr+tr+tr+tr>td+td{
+    background:rgb(255, 165, 165);
+}
+tbody>tr>td+td+td+td{
+    border-right: 1px solid rgb(255, 165, 165);
+}
+tbody>tr+tr>td+td+td+td{
+    border-right: 1px solid rgb(249, 196, 196);
+}
+tbody>tr+tr+tr>td+td+td+td{
+    border-right: 1px solid rgb(255, 165, 165);
+}
+tbody>tr+tr+tr+tr>td+td+td+td{
+    border-right: 1px solid rgb(249, 196, 196);
+}
+tbody>tr+tr+tr+tr+tr>td+td+td+td{
+    border-right: 1px solid rgb(255, 165, 165);
+}

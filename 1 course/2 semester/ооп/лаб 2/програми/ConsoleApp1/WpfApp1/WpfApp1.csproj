@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="cyclone_weather_world_time_icon_194253.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="cyclone_weather_world_time_icon_194253.ico" />
+  </ItemGroup>
+
+</Project>

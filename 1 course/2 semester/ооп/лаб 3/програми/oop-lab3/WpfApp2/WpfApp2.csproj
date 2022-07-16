@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="app_development_computer_mobile_settings_cogwheel_icon_193922.ico" />
+    <None Remove="blu.png" />
+    <None Remove="yellow.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="app_development_computer_mobile_settings_cogwheel_icon_193922.ico" />
+    <Resource Include="blu.png" />
+    <Resource Include="yellow.png" />
+  </ItemGroup>
+
+</Project>

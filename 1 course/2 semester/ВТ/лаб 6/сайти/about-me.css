@@ -1,0 +1,43 @@
+body{
+    background: linear-gradient(to right, #414141b4 60%, #cbcbcb);
+}
+.text-top{
+    color: white;
+    position: absolute;
+    top:0em;
+    left:10em;
+    font-size: 60pt;
+    font-family:Verdana;
+    -webkit-text-stroke: 2px black
+}
+.text-top:after{
+    content: 'Про мене';
+    position: absolute;
+    top:3px;
+    left:-4px;
+   }
+
+.foto{
+    background-image: url("img/ja.jpg");
+    position: absolute;
+    background-repeat: no-repeat;
+    width: 221px;
+    height: 220px;
+    transform: scale(2, 2);   
+    top:10em;
+    left:90em;
+    box-shadow: 24px 27px 8px -6px rgba(34, 60, 80, 0.2);
+}
+.foto:hover{
+    transform: scale(3, 0.5);
+}
+
+.text{
+    color: white;
+    position: absolute;
+    top:3em;
+    left:3em;
+    font-size: 50pt;
+    font-family:Verdana;
+    -webkit-text-stroke: 2px black
+}

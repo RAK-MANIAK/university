@@ -1,0 +1,15 @@
+C:\Users\manki\Desktop\ооп\лаб 6\lab_3\2\bin\Debug\net6.0\2.1.exe
+C:\Users\manki\Desktop\ооп\лаб 6\lab_3\2\bin\Debug\net6.0\2.1.deps.json
+C:\Users\manki\Desktop\ооп\лаб 6\lab_3\2\bin\Debug\net6.0\2.1.runtimeconfig.json
+C:\Users\manki\Desktop\ооп\лаб 6\lab_3\2\bin\Debug\net6.0\2.1.dll
+C:\Users\manki\Desktop\ооп\лаб 6\lab_3\2\bin\Debug\net6.0\2.1.pdb
+C:\Users\manki\Desktop\ооп\лаб 6\lab_3\2\obj\Debug\net6.0\2.1.csproj.AssemblyReference.cache
+C:\Users\manki\Desktop\ооп\лаб 6\lab_3\2\obj\Debug\net6.0\2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manki\Desktop\ооп\лаб 6\lab_3\2\obj\Debug\net6.0\2.1.AssemblyInfoInputs.cache
+C:\Users\manki\Desktop\ооп\лаб 6\lab_3\2\obj\Debug\net6.0\2.1.AssemblyInfo.cs
+C:\Users\manki\Desktop\ооп\лаб 6\lab_3\2\obj\Debug\net6.0\2.1.csproj.CoreCompileInputs.cache
+C:\Users\manki\Desktop\ооп\лаб 6\lab_3\2\obj\Debug\net6.0\2.1.dll
+C:\Users\manki\Desktop\ооп\лаб 6\lab_3\2\obj\Debug\net6.0\refint\2.1.dll
+C:\Users\manki\Desktop\ооп\лаб 6\lab_3\2\obj\Debug\net6.0\2.1.pdb
+C:\Users\manki\Desktop\ооп\лаб 6\lab_3\2\obj\Debug\net6.0\2.1.genruntimeconfig.cache
+C:\Users\manki\Desktop\ооп\лаб 6\lab_3\2\obj\Debug\net6.0\ref\2.1.dll

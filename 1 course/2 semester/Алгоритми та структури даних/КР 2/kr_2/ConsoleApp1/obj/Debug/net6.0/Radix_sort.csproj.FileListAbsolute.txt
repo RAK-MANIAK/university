@@ -1,0 +1,15 @@
+C:\Users\manki\Desktop\КР 2\kr_2\ConsoleApp1\bin\Debug\net6.0\Radix_sort.exe
+C:\Users\manki\Desktop\КР 2\kr_2\ConsoleApp1\bin\Debug\net6.0\Radix_sort.deps.json
+C:\Users\manki\Desktop\КР 2\kr_2\ConsoleApp1\bin\Debug\net6.0\Radix_sort.runtimeconfig.json
+C:\Users\manki\Desktop\КР 2\kr_2\ConsoleApp1\bin\Debug\net6.0\Radix_sort.dll
+C:\Users\manki\Desktop\КР 2\kr_2\ConsoleApp1\bin\Debug\net6.0\Radix_sort.pdb
+C:\Users\manki\Desktop\КР 2\kr_2\ConsoleApp1\obj\Debug\net6.0\Radix_sort.csproj.AssemblyReference.cache
+C:\Users\manki\Desktop\КР 2\kr_2\ConsoleApp1\obj\Debug\net6.0\Radix_sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manki\Desktop\КР 2\kr_2\ConsoleApp1\obj\Debug\net6.0\Radix_sort.AssemblyInfoInputs.cache
+C:\Users\manki\Desktop\КР 2\kr_2\ConsoleApp1\obj\Debug\net6.0\Radix_sort.AssemblyInfo.cs
+C:\Users\manki\Desktop\КР 2\kr_2\ConsoleApp1\obj\Debug\net6.0\Radix_sort.csproj.CoreCompileInputs.cache
+C:\Users\manki\Desktop\КР 2\kr_2\ConsoleApp1\obj\Debug\net6.0\Radix_sort.dll
+C:\Users\manki\Desktop\КР 2\kr_2\ConsoleApp1\obj\Debug\net6.0\refint\Radix_sort.dll
+C:\Users\manki\Desktop\КР 2\kr_2\ConsoleApp1\obj\Debug\net6.0\Radix_sort.pdb
+C:\Users\manki\Desktop\КР 2\kr_2\ConsoleApp1\obj\Debug\net6.0\Radix_sort.genruntimeconfig.cache
+C:\Users\manki\Desktop\КР 2\kr_2\ConsoleApp1\obj\Debug\net6.0\ref\Radix_sort.dll

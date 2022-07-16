@@ -1,0 +1,47 @@
+div{
+    width:450px;
+    margin: auto;
+}
+table{
+    background-color: rgb(183, 183, 183);
+    border: 2px solid grey;
+}
+td:nth-of-type(2n+1) {
+text-align: right;
+font-weight:bold
+}
+input[type="email"]{
+    background-color: yellow;
+    border-color: rgb(198, 198, 30);
+    height:23px;
+}
+input[type="password"]{
+    background-color:plum;
+    border-color: rgb(170, 117, 170);
+    height:23px;
+}
+input[type="text"]{
+    background-color: yellow;
+    border-color: rgb(198, 198, 30);
+    height:23px;
+}
+select{
+    background-color: blue;
+    border-color: rgb(37, 37, 176);
+    height:23px;
+    width: 170px;
+}
+textarea{
+    background-color: greenyellow;
+    border-color: rgb(132, 176, 65);
+    height:60px;
+    width: 165px;
+}
+button[type="submit"]{
+    background-color: greenyellow;
+    border-color: rgb(132, 176, 65);
+}
+button[type="reset"]{
+    background-color: red;
+    border-color: rgb(182, 30, 30);
+}

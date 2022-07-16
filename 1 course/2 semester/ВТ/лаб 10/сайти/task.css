@@ -1,0 +1,174 @@
+@media only screen and (max-width: 561px) {
+  #text_slide {
+    font-size: 5em;
+  }
+  #text {
+    font-size: 2em;
+  }
+}
+@media only screen and (max-width: 768px) {
+  #form {
+    padding-top: 1000px;
+  }
+  #form input[type=text],
+#form input[type=email] {
+    margin-top: 5px;
+  }
+}
+a {
+  text-decoration: none;
+}
+
+.col a {
+  transition: 0.3s;
+  color: black;
+}
+.col:hover > a {
+  color: white;
+}
+
+#top {
+  position: relative;
+}
+
+img {
+  height: 800px;
+}
+
+#text {
+  z-index: 1;
+  position: absolute;
+  top: 22%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 2.5em;
+  font-family: "Raleway";
+}
+#text img {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: -20%;
+}
+
+#slide span {
+  transition: 0.3s;
+}
+#slide button:hover span {
+  background-color: rgb(241, 82, 82);
+}
+#slide #text_slide {
+  color: black;
+  position: absolute;
+  top: 49.5%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 6em;
+  font-family: "Raleway";
+}
+
+#watch {
+  z-index: 1;
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  width: 200px;
+  transform: translate(-50%, -50%);
+  font-size: 2.5em;
+}
+
+#card {
+  margin-top: 650px;
+  height: 500px;
+}
+#card div {
+  height: 500px;
+}
+#card div div {
+  height: 500px;
+}
+#card div div h2 {
+  position: relative;
+  top: 50%;
+}
+
+.btn-light {
+  color: red;
+  width: 40%;
+  transition: 0.3s;
+}
+
+#form {
+  margin-top: 120px;
+}
+#form input[type=date] {
+  width: 84%;
+}
+#form #area {
+  width: 89%;
+}
+#form textarea {
+  resize: none;
+}
+#form #img {
+  display: flex;
+}
+#form #img #img2 {
+  width: 20%;
+  height: 20%;
+}
+#form span {
+  color: red;
+}
+#form .text-right {
+  position: relative;
+  top: -6%;
+  text-align: right;
+}
+#form #more {
+  position: relative;
+  top: -6%;
+  text-align: right;
+}
+
+section.news {
+  margin-top: 40px;
+}
+section.news h4 {
+  color: orange;
+}
+section.news .red {
+  background-color: #dd3f3e;
+  border-radius: 20px;
+  height: 85px;
+  color: #fff;
+  text-align: center;
+}
+
+footer {
+  margin-top: 20px;
+  color: #fff;
+  padding: 30px 0;
+  background-color: #002144;
+}
+footer button {
+  color: #fff;
+  float: right;
+  height: 30px;
+  width: 30px;
+  background-color: #dd3f3e;
+  border: none;
+  border-radius: 5px;
+  margin: 5px;
+}
+footer .return {
+  position: fixed;
+  top: 87%;
+  height: 30px;
+  width: 30px;
+  bottom: 30px;
+  right: 50px;
+  border-top: 6px solid grey;
+  border-left: 6px solid grey;
+  transform: rotate(45deg);
+}/*# sourceMappingURL=task.css.map */

@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<meta charset="utf-8">
+<title>Анкета відвідувача ресторану</title>
+<style>
+    .raz { 
+      -moz-appearance: textfield;
+    }
+    .raz::-webkit-inner-spin-button { 
+      display: none;
+    }
+
+    .d {
+  border: 2px solid #797676;
+  margin: 3em;
+width: 500px;
+  border-radius: 5px;
+}
+    </style>
+        </head>
+        <body bgcolor="#c0c0c0">
+            <form id="nameform" enctype="multipart/form-data">
+<fieldset  class="d">
+<legend>Особисті дані</legend>
+<table>
+
+<tr>
+<td><label for="email">Електронна адреса</label></td>
+<td><label for="number">Номер телефону</label></td>
+</tr>
+
+<tr>
+    <td><input id="email" type="email" name="email" required="required"  autocomplete="off"  placeholder="pes_robe_uf_uf@pes.com"></td>
+    <td><input id="number" type="number" required="required" placeholder="+380" pattern="[1-2]" min="-3" max="3" step="2"></td>
+    </tr>
+
+</table>
+</fieldset>
+
+
+<fieldset  class="d">
+    <legend>Відгук</legend>
+    <table>
+
+    <tr>
+    <td><label for="rating">Оцінка</label></td>
+    <td><label for="data">Дата відвідування</label></td>
+    <td><label for="color">Колір тарілки</label></td>
+    </tr>
+    
+    <tr>
+        <td><input id="rating" type="range" min="0" max="10" value="10" oninput="this.nextElementSibling.value = this.value"><output>10</output></td>
+        <td><input id="data" type="date" required="required" placeholder="A ryba byli byli"></td>
+        <td><input id="color" type="color" value="#D4D4D4"></td>
+        </tr>
+        <tr>
+<td><label for="dumka">Ваша думка</label></td>
+<td><label for="country">Страва країни</label></td>
+<td><label for="eat">Найсмачніші страви</label></td>
+        </tr>
+        <tr>
+<td><textarea id="dumka" spellcheck="false"></textarea></td>
+<td><input id="country" list="list" placeholder="Україна">
+    <datalist id="list">
+        <option>Україна</option>
+        <option>США</option>
+        <option>Уругвай</option>
+        <option>Китай</option>
+        <option>Нігерія</option>
+        <option>Азербайджан</option>
+        <option>Польща</option>
+    </datalist></td>
+    <td><select id="eat">
+            <optgroup label="Шоб наїстися">
+                <option>Макарони</option>
+                <option>Борщик</option>
+                <option>Картопелька</option>
+            </optgroup>
+            <optgroup label="Десерт">
+                <option>Морозиво</option>
+                <option>Пластівці</option>
+                <option>Тортик</option>
+            </optgroup>
+        </select></td>
+        </tr>
+    </table>
+    </fieldset>
+
+
+    <fieldset  class="d">
+        <legend>Прогрес</legend>
+        <table>
+
+        <tr>
+        <td><label for="progress">Progress</label></td>
+        <td><label for="meter">Meter</label></td>
+        </tr>
+        
+        <tr>
+            <td>    <progress id="progress" value="0" max="100" style="width:150px;"></progress>
+                <script>
+                function getProgress(){
+                if(document.getElementById('progress').value>=document.getElementById('progress').max) return false;
+                document.getElementById('progress').value++;
+                setTimeout(getProgress,1000);
+                }
+                getProgress();
+                </script></td>
+            <td><meter id="meter" value="0" max="100" style="width:150px;"></meter>
+                <script>
+                function getMeter(){
+                if(document.getElementById('meter').value>=document.getElementById('meter').max) return false;
+                document.getElementById('meter').value++;
+                setTimeout(getMeter,1000);
+                }
+                getMeter();
+                </script></td>
+            </tr>
+        </table>
+        </fieldset>
+
+
+        <input type="file" id="myFile" name="filename" multiple>
+        <button type="submit" form="nameform" value="Submit">Відправити</button>
+    </form>
+    <p><a href="index-start.html"><img src="back.jpg" alt=""  title="Назад" width="400px"></a></p>
+     </body>
+            </html>

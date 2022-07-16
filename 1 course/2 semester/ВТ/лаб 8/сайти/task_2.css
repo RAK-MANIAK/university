@@ -1,0 +1,17 @@
+body {
+  background-color: #2197e9;
+  font-size: 1.8em;
+  color: white;
+}
+
+li {
+  background-color: red;
+  padding: 100px;
+  margin: 10px;
+  list-style-type: none;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+}

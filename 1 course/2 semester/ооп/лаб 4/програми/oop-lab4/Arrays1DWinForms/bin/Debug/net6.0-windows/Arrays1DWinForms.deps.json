@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Arrays1DWinForms/1.0.0": {
+        "runtime": {
+          "Arrays1DWinForms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arrays1DWinForms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

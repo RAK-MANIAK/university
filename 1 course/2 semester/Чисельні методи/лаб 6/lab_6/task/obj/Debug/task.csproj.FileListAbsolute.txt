@@ -1,0 +1,11 @@
+C:\Users\manki\Desktop\Чисельні методи\лаб 6\lab_6\task\bin\Debug\task.exe.config
+C:\Users\manki\Desktop\Чисельні методи\лаб 6\lab_6\task\bin\Debug\task.exe
+C:\Users\manki\Desktop\Чисельні методи\лаб 6\lab_6\task\bin\Debug\task.pdb
+C:\Users\manki\Desktop\Чисельні методи\лаб 6\lab_6\task\obj\Debug\task.csproj.AssemblyReference.cache
+C:\Users\manki\Desktop\Чисельні методи\лаб 6\lab_6\task\obj\Debug\task.csproj.SuggestedBindingRedirects.cache
+C:\Users\manki\Desktop\Чисельні методи\лаб 6\lab_6\task\obj\Debug\task.Form1.resources
+C:\Users\manki\Desktop\Чисельні методи\лаб 6\lab_6\task\obj\Debug\task.Properties.Resources.resources
+C:\Users\manki\Desktop\Чисельні методи\лаб 6\lab_6\task\obj\Debug\task.csproj.GenerateResource.cache
+C:\Users\manki\Desktop\Чисельні методи\лаб 6\lab_6\task\obj\Debug\task.csproj.CoreCompileInputs.cache
+C:\Users\manki\Desktop\Чисельні методи\лаб 6\lab_6\task\obj\Debug\task.exe
+C:\Users\manki\Desktop\Чисельні методи\лаб 6\lab_6\task\obj\Debug\task.pdb

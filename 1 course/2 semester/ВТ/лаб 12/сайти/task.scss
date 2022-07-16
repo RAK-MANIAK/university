@@ -1,0 +1,65 @@
+.task_1 {
+  $primary-color: #337ab7;
+  $success-color: #5cb85c;
+  .primary-massege {
+    background-color: $primary-color;
+  }
+  .success-massege {
+    background-color: $success-color;
+  }
+}
+
+.task_2 {
+  $width: 150px;
+  $height: $width;
+  width: $width;
+  height: $height;
+  background-color: black;
+}
+
+.task_3 {
+  $number: 50 / 6;
+  $width: 0;
+  @for $i from 1 through 12 {
+    $width: $width + $number;
+    col-#{$i} {
+      width: $width + "%";
+    }
+  }
+}
+
+.task_4 {
+  $classes: "primary", "info", "success", "warning", "danger";
+  $colors: #337ab7, #5cb85c, #5bc0de, #f0ad4e, #d9534f;
+  @for $i from 1 through 5 {
+    .#{nth($classes, $i)} {
+      background-color: nth($colors, $i);
+    }
+  }
+}
+
+.task_5 {
+  $widthcol: 8.333333333333%;
+  .container {
+    width: 100%;
+  }
+  $all: 576px 540px -sm, 768px 720px -md, 992px 960px -lg, 1200px 1140px -xl,
+    1400px 1320px -xxl;
+  @for $i from 1 through 12 {
+    .col-#{$i} {
+      width: $widthcol * $i;
+    }
+  }
+  @each $width, $container-widths, $class-suffixes in $all {
+    @media (min-width: $width) {
+      .container {
+        width: $container-widths;
+      }
+      @for $i from 1 through 12 {
+        .col#{$class-suffixes}-#{$i} {
+          width: $widthcol * $i;
+        }
+      }
+    }
+  }
+}
